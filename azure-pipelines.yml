@@ -4,7 +4,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: $(az_account_id) 
+  azureSubscription: 91a07c43-ae17-45b5-b94d-798cae2fbd4b
   #az_account_id is stored in the varible in encrypted formate
 
   # Web app name
